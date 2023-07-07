@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/baseline_photo_library_24.xml" value="0.1" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/click_file.xml" value="0.2" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/crop.xml" value="0.1385" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/drawable_file.xml" value="0.1385" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/edit.xml" value="0.1345" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/edit_button.xml" value="0.1325" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.2" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/ic_edit1.xml" value="0.1385" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/ic_edit_button.xml" value="0.1385" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/ic_gallery2.xml" value="0.1345" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/ic_icon.xml" value="0.2" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/ic_image.xml" value="0.2" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/linear_bg.xml" value="0.2" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/drawable/vertical_dots.xml" value="0.1" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/font/nunito_sans_bold.xml" value="0.1" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/activity_crop_image.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/activity_directory.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/activity_editing.xml" value="0.264" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/activity_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/activity_image_edit.xml" value="0.264" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/activity_image_editing.xml" value="0.25" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/activity_image_editing2.xml" value="0.25" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/content_gallery.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/content_image_editing.xml" value="0.25" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/directory_item.xml" value="0.234375" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/editing_new.xml" value="0.16" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/fragment_first.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/fragment_second.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/gallery_editing.xml" value="0.264" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/gallery_item.xml" value="0.2" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/layout/item_image.xml" value="0.4775390625" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/menu/example_menu.xml" value="0.25" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1345" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/karth/AndroidStudioProjects/ImageManagement/app/src/main/res/xml/file_paths.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

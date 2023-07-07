@@ -1,0 +1,42 @@
+ /*
+        if (imagePath != null && !imagePath.isEmpty()) {
+            Uri imageUri = Uri.fromFile(new File(imagePath));
+            cropImageView.setImageUriAsync(imageUri);
+        } else {
+            Toast.makeText(this, "No image path provided", Toast.LENGTH_SHORT).show();
+            finish();
+        }
+
+        cropImageView.setOnCropImageCompleteListener(new CropImageView.OnCropImageCompleteListener() {
+            @Override
+            public void onCropImageComplete(@NonNull CropImageView view, @NonNull CropImageView.CropResult result) {
+                if (result.isSuccessful()) {
+                    Bitmap croppedImage = result.getBitmap();
+                    if (croppedImage != null) {
+                        // Save the cropped image to a file
+                        File outputFile = new File(getFilesDir(), "cropped_image.jpg");
+                        try {
+                        FileOutputStream outputStream = new FileOutputStream(outputFile);
+                                                         croppedImage.compress(Bitmap.CompressFormat.JPEG, 100, outputStream);
+                                                         outputStream.flush();
+                                                         outputStream.close();
+                                                         // Show a toast message with the file path
+                                                         Toast.makeText(Editing_new.this, "Cropped image saved: " + outputFile.getAbsolutePath(), Toast.LENGTH_LONG).show();
+                                                     } catch (IOException e) {
+                                                         e.printStackTrace();
+                                                         Toast.makeText(Editing_new.this, "Failed to save cropped image", Toast.LENGTH_SHORT).show();
+                                                     }
+                                                 } else {
+                                                     Toast.makeText(Editing_new.this, "Failed to crop image", Toast.LENGTH_SHORT).show();
+                                                 }
+                                             } else {
+                                                 Exception error = result.getError();
+                                                 Toast.makeText(Editing_new.this, "Crop failed: " + error.getMessage(), Toast.LENGTH_SHORT).show();
+                                             }
+                                         }
+                                     });
+
+
+                                     // Trigger the crop action (e.g., on a button click)
+                                     cropImageView.getCroppedImageAsync();
+                                      */
